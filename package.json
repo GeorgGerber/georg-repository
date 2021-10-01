@@ -1,0 +1,9 @@
+{
+    "name": "mein-service",
+    "version": "1.0.0",
+    "description": "mein Service",
+    "main": "./index.js",
+    "dependencies": {
+        "mein-sub-service": ">=1.0.0"
+    }
+}
